@@ -1,0 +1,38 @@
+[Root]
+Most Recent Package=Dep File 1
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\NetEye
+RA Server Support=Yes
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+AutPrx32.dll=
+AutMgr32.exe=
+RACMgr32.exe=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\system32\msvcrt.dll=
+D:\Naeem\NetEye\Daemons.exe=
+D:\Naeem\NetEye\Serializer.exe=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+AutPrx32.dll=This file is needed for RA server support.
+AutMgr32.exe=This file is needed for RA server support.
+RACMgr32.exe=This file is needed for RA server support.
+D:\Naeem\NetEye\Daemons.exe=
+D:\

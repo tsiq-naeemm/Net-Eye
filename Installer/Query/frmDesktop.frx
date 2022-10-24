@@ -1,0 +1,5 @@
+VERSION 5.00
+Begin VB.Form frmLogin 
+   BorderStyle     =   3  'Fixed Dialog
+   Caption         =   "Net Eye"
+   ClientHeight    =   1485

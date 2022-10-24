@@ -1,0 +1,15 @@
+[Root]
+Most Recent Package=Net Eye
+Most Recent Deploy=Net Eye
+
+[Deploy|Net Eye|Root]
+Package=Net Eye
+Handler=PDWizard.FolderDplySubWiz
+Folder=D:\NetEye\Client
+
+
+[Package|Net Eye|Package]
+PackageFolder=D:\NetEye\Package
+ProjectFolder=D:\Naeem\NetEye\Query
+ServerSideCab=
+File

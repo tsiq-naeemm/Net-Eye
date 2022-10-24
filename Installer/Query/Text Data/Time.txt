@@ -1,0 +1,14 @@
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.Form frmMessage 
+   Appearance      =   0  'Flat
+   BackColor       =   &H8000000A&
+   BorderStyle     =   0  'None
+   Caption         =   "Form1"
+   ClientHeight    =   2985
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   7065
+   LinkTopic       =   "Form1"
+   LockControls    =   -1  'True
+   MaxButt
