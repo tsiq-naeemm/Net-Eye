@@ -4,7 +4,7 @@
 
 A nice Remote Administration Tool. A spy tool which can used for surveillance purpose remotely. work only at windows domain and local area network. 
 
-![Network Eye for Spying](Binaries/NetEye.GIF)
+![Network Eye for Spying](Binaries/NetEye.GIF?raw=true "Network Eye")
 
 ## Description
     The program can be used as a nice remote administration tool, some fun with your friends on
